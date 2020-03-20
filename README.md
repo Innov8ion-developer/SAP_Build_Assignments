@@ -17,11 +17,11 @@ We don’t need two titles for this step so lets remove the Title Form Title fro
 
 Change the title of this step to: “Enter Your Information”. You can again do this by selecting the Wizard Step in the outline and then go to properties of the Wizard Step (to the right side of the screen) then locate the Title input field to edit the Title there. Or you can select it in the UI Editor and edit the Title there. 
 
-<img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2012.43.56.png" height="300">
+<img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2012.43.56.png">
 
 Now lets change the labels of the first two Form Rows to "Zip Code" and "House Number". Again you can do this in the outline or by double clicking on the label in the UI editor. 
 
-<img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2014.00.25.png" height="300">
+<img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2014.00.25.png">
 
 Also we have to change out the Dropdown List in the bottom Form Row for another Input field.
 Great, we have our input fields in place now they are just a bit too wide. Lets go to their properties and adjust the first one to 20%, and the second one to 1
