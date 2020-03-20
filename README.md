@@ -24,6 +24,9 @@ Now lets change the labels of the first two Form Rows to "Zip Code" and "House N
 <img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2014.00.25.png">
 
 Also we have to change out the Dropdown List in the bottom Form Row for another Input field.
+
+<img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2014.04.22.png">
+
 Great, we have our input fields in place now they are just a bit too wide. Lets go to their properties and adjust the first one to 20%, and the second one to 1
 0%.
 ![Edit template](https://github.com/iemkek/SAP_Build_Assignments/blob/master/img/editTheTemplate1.png)
