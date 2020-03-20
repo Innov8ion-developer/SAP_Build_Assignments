@@ -17,7 +17,7 @@ Now select the "Wizard" template to start your prototype with an existing templa
 ![Wizard template](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/yourFirstPrototype3.png)
 
 #### Preview your prototype
-You can now already test your prototype. Since we started with a template, it is ready for you to take a first look. Do this by clicking the "Preview" button in the top right part of the screen. Try to navigate through your prototype. To go back to the build tool, press the "Back to page map" button, also in the top right part of the screen.
+You can already test your prototype. Since we started with a template, it is ready for you to take a first look. Do this by clicking the "Preview" button in the top right part of the screen. Try to navigate through your prototype. To go back to the build tool, press the "Back to page map" button, also in the top right part of the screen.
 
 ![Preview prototype](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/yourFirstPrototype4.png)
 
