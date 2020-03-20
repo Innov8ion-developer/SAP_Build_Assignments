@@ -9,7 +9,7 @@ In the outline ( bottom left corner ) Select “Wizard Step Product type”. Del
 
 Navigate to controls in the upper left corner. Search for the “Form” control and either drag it in the UI editor, or you can drag it into the outline.
 
-<img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2012.38.15.png" height="300">
+<img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2012.38.15.png">
 
 We don’t need two titles for this step so lets remove the Title Form Title from the Form control. We also won't be needing the bottom two Form Rows so lets delete those as well.
 
