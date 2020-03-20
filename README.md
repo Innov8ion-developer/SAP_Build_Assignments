@@ -1,6 +1,5 @@
 # Assignment #1 - Your first prototype
-After you login to your build.me account, watch the intro video to get an understanding of the capabilities of the build tool. In the first
-assignment you will create a new build prototype based on an existing template. This will kickstart your prototype development.
+In the first assignment you will create a new build prototype based on an existing template. This will kickstart your prototype development.
 
 #### Create new project
 From the "Start from scratch" section, choose the "Create new project" button.
