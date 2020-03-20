@@ -27,7 +27,7 @@ Also we have to change out the Dropdown List in the bottom Form Row for another 
 
 <img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2014.04.22.png">
 
-Great, we have now have our two input fields in place now they are just a bit too wide. Lets go to their properties and adjust the first one to 20%, and the second one to 10%.
+Great, we have now have our two input fields in place now they are just a bit too wide. Lets go to their properties and adjust the first Input field to 20%, and the second Infput field to 10%.
 
 <img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2014.17.17.png">
 
