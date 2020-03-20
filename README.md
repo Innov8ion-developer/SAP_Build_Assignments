@@ -5,7 +5,7 @@ Edit your prototype
 
 In the outline ( bottom left corner ) Select “Wizard Step Product type”. Delete all its children ( Message Strip, Text and Horizontal Box ). You can do this either in Wizard step properties ( to the right of the screen ) or just remove them from the outline.
 
-![Hello](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2012.17.41.png)
+(https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2012.17.41.png)
 
 Go to controls in the upper left corner. Search for the “Form” control and either drag it in the UI editor, or you can drag it into the outline.
 
