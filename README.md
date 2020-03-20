@@ -13,7 +13,7 @@ Navigate to controls in the upper left corner. Search for the “Form” control
 
 Change the title of this step to: “Enter Your Information”. You can again do this by selecting the Wizard Step in the outline and then go to properties of the Wizard Step (to the right side of the screen) then locate the Title input field to edit the Title there. Or you can select it in the UI Editor and edit the Title there. 
 
-<img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2012.43.40.png">
+<img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2013.52.42.png">
 
 We don’t need two titles for this step so lets remove the Title Form Title from the Form control. We also won't be needing the bottom two Form Rows so lets delete those as well.
 
