@@ -45,4 +45,4 @@ Once you are back in the Build tool, click the first page of your prototype. Thi
    In the UI Editor, each control has properties defined in the right panel that you can customize for your prototype. Properties define the look and behavior of each UI control. In the UI Editor, when you select a control on your prototype page, the control properties and actions display on the Properties tab on the right-panel. Some controls can include additional properties, such as page children, size, color, and more.
 
 # Continue to assignment #2
-[Assignment 2](https://github.com/Innov8ion-developer/SAP_Build_Assignments/tree/2_Edit_the_template)
+Now that you have created your first project and know what the Build tool looks like you can go to assignment #2. In this assignment you will start editing your prototype. [Assignment 2](https://github.com/Innov8ion-developer/SAP_Build_Assignments/tree/2_Edit_the_template)
