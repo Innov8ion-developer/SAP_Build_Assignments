@@ -55,5 +55,5 @@ Since we are making a prototype and unfortunately there is no way to use real AP
 
 ![Edit Values](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Edit%20Input%20Values.png)
 
-# Continue to assignment #3
+# Continue to step #2
 [Assignment 3](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/3_)
