@@ -1,7 +1,10 @@
-# Assignment #2 - Edit the template
-Intro
-#### Edit the template
-Edit your prototype
+# Assignment #2 - Edit the prototype
+The wizard template that you have selected in assignment #1 is used to guide a user through a serie of steps. In this assignment you will edit the steps in the template. First you will delete some of the template content that is not needed and after that you will add some controls that you do need.
+
+#### Edit the prototype
+To start editing the prototype, go to the UI Editor by clicking the Wizard Page.
+
+<screen>
 
 In the outline ( bottom left corner ) Select “Wizard Step Product type”. Delete all its children ( Message Strip, Text and Horizontal Box ). You can do this either in Wizard step properties ( to the right of the screen ) or just remove them from the outline.
 
