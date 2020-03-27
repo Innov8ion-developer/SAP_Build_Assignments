@@ -1,10 +1,7 @@
-# Assignment #2 - Edit the prototype
-The wizard template that you have selected in assignment #1 is used to guide a user through a serie of steps. In this assignment you will edit the steps in the template. First you will delete some of the template content that is not needed and after that you will add some controls that you do need.
-
-#### Edit the prototype
-To start editing the prototype, go to the UI Editor by clicking the Wizard Page.
-
-<screen>
+# Assignment #2 - Edit the template
+Intro
+#### Edit the template
+Edit your prototype
 
 In the outline ( bottom left corner ) Select “Wizard Step Product type”. Delete all its children ( Message Strip, Text and Horizontal Box ). You can do this either in Wizard step properties ( to the right of the screen ) or just remove them from the outline.
 
@@ -33,6 +30,8 @@ Also we have to change out the Dropdown List in the bottom Form Row for another 
 Great, we have now have our two input fields in place now they are just a bit too wide. Lets go to their properties and adjust the first Input field to 20%, and the second Infput field to 10%.
 
 <img src="https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Screenshot%202020-03-20%20at%2014.17.17.png">
+
+Since we are making a prototype and unfortunately there is no way to use real API's in Build at the moment, we will have to hard code some values in order to make our prototype appear like it works! You can do this by selecting the input fields either in the UI editor or Outline. Then navigate to it's properties and enter an Zip Code and House Number in the Value fields.
 
 ![Edit template](https://github.com/iemkek/SAP_Build_Assignments/blob/master/img/editTheTemplate1.png)
 
