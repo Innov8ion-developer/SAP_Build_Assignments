@@ -1,7 +1,7 @@
 # Assignment #2 - Edit the prototype step 2
 
 First thing we are going to do is select Wizard Step Product Information and delete all its children. We can do this either in the outline or in it's properties.
-![Step 2 Delete](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/%232DeleteOutline.jpg)
+![Step 2 Delete](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/%23step%202%20delete%20in%20outline.jpg)
 
 
 # Continue to step #3
