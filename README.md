@@ -27,7 +27,7 @@ Once you are back in the Build tool, click the first page of your prototype. Thi
 
 1. **Canvas**
 
-   The Build tool includes a workspace, called the Design Canvas in the center of the UI Editor. Drag images and controls onto the canvas to create interactive prototypes. Use the Zoom tool on the toolbar to adjust the canvas for best viewing.
+   The Build tool includes a workspace, called the Design Canvas in the center of the UI Editor. Drag images and controls onto the canvas to create interactive prototypes.
 
 1. **Controls tab**
 
