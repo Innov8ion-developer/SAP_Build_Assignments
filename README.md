@@ -5,5 +5,8 @@ The First thing we are going to do is select the Wizard Step Product Information
 Or delete them in the Wizard Step properties:
 ![Step 2 Delete In Properties](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/%232%20wizard%20step%20properties%20delete.jpg)
 
+While we have our Wizard Step properties panel open, lets also edit the Title from Product Information as follows:
+![Step 2 Edit Wizard Step Title](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/%232%20edit%20wizard%20step%20title.jpg)
+
 # Continue to step #3
 [Step 3](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/3_)
