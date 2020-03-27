@@ -26,7 +26,7 @@ Once you are back in the Build tool, click the first page of your prototype. Thi
 ![Screen layout explained](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/yourFirstPrototype5.png)
 
 1. **Canvas**
-The Build tool includes a workspace, called the Design Canvas in the center of the UI Editor. Drag images and controls onto the canvas to create interactive prototypes. Use the Zoom tool on the toolbar to adjust the canvas for best viewing.
+...The Build tool includes a workspace, called the Design Canvas in the center of the UI Editor. Drag images and controls onto the canvas to create interactive prototypes. Use the Zoom tool on the toolbar to adjust the canvas for best viewing.
 
 1. **Controls tab**
 The UI controls that are available for a particular template are displayed in the Controls panel to the left of the canvas. The UI controls in SAP Build have predefined attributes, methods, and values that establish consistent visualization and interaction. Build includes UI controls that you can use to make prototypes interactive, without writing a single line of code.
