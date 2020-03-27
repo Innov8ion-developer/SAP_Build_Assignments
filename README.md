@@ -6,7 +6,6 @@ From the "Start from scratch" section, choose the "Create new project" button.
 
 ![Create new project](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/yourFirstPrototype1.png)
 
-
 Give your project a meaningful name and description. Next, choose the "Start with template" option.
 
 ![Start with template](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/yourFirstPrototype2.png)
