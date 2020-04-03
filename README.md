@@ -17,7 +17,7 @@ Now since we are still editing our Horizontal Box properties, lets go ahead and 
 ![Assignment4 HBox Properties](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ChangeHboxProperties.png)
 
 Now lets edit the Formatted Text control in our Horizontal Box. This Text will display our results form our search in step 1. Select the Text control in the UI Editor or the Outline. Then in it's Text property lets paste the following HTML:
-<pre><ul><li>3 kWp</li><li>10 Panels</li><li>3.087 kWh Energy Yield</li><li>3.450 Euro Installation Costs</li></ul></pre>
+<code><ul><li>3 kWp</li><li>10 Panels</li><li>3.087 kWh Energy Yield</li><li>3.450 Euro Installation Costs</li></ul></code>
 Lets also edit its Margins property to give it a small margin while we are here.
 ![Assignment4 FormattedText](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Paste%20Formatted%20Text.jpg)
 
