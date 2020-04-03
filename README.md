@@ -43,3 +43,4 @@ To start editing the prototype, go to the UI Editor by clicking the Wizard Page.
 
 # Continue to assignment #3
 [Assignment 3](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/3_Edit_Step_1)
+
