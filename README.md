@@ -35,9 +35,17 @@ With an empty wizard template to start with, you will be adding controls for wiz
 
 ![Change input field width](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep6.png)
 
-6. Since we are making a prototype, we will have to hard code some values in order to make our prototype appear like it works! You can do this by selecting the input fields either in the UI editor or Outline. Then navigate to it's properties and enter a Zip Code and House Number in the Value fields.
+6. Change values of input fields
 
-![Edit Values](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Edit%20Input%20Values.png)
+   Since we are making a prototype, we will have to hard code some values in order to make our prototype appear like it works! You can do this by selecting the input fields either in the UI editor or Outline. Then navigate to it's properties and enter a Zip Code and House Number in the Value fields.
+
+![Edit Values](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep7.png)
+
+7. Result
+
+   You should end up with a finished first wizard step after this assignment. It should look similar to the results below.
+   
+![Result](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep8.png)
 
 # Continue to assignment #4
 [Assignment 4](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/3_Edit_the_template_step2/README.md)
