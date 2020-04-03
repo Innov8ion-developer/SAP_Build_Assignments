@@ -11,9 +11,11 @@ With an empty wizard template to start with, you will be adding controls for wiz
 
 2. Delete one Title and two Form Rows from Form control
 
-   The "Form" control has its own title. We don’t need two titles so lets remove the "Title Form Title" from the Form control. We also won't be needing the bottom two Form Rows so lets delete those as well.
+   The "Form" control has its own title. We don’t need two titles so lets remove the "Title Form Title" from the Form control.
 
 ![Delete form title](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep2.png)
+
+   We also won't be needing the bottom two Form Rows so lets delete those as well.
 
 ![Delete form rows](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep3.png)
 
