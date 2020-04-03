@@ -1,5 +1,5 @@
 # Assignment #5 - Edit wizard step 3
-In wizard step 3, the user should be able to select the type of solar panel he wants to order. He should be able to do this by selecting the line with the solar panels of choice in a table.
+In wizard step 3, the user should be able to select the type of solar panel he wants to order. He should be able to do this by selecting the solar panel of his choice from a table. The data to populate this table is supplied as an excel file in this assignment. The Build tool allows you to upload this excel file and use it as a data source for a table.
 
 #### Edit wizard step 3
 1. Search for the Table control in the controls section. Drag & drop it onto wizard step 3.
@@ -22,17 +22,21 @@ In wizard step 3, the user should be able to select the type of solar panel he w
 
 ![Change column header](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addSolarPanelsTable4.png)
 
-6. Now lets import data from an excel file, you can download our SolarPanels.xlsx [here](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/data/SolarPanels.xlsx). In Build head on over to the Data tab and click on import a file. Select the SolarPanels.xlsx you just downloaded:
-![Assignment5 ImportData](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ImportData.jpg)
+6. Now we want to show some solar panel data in this table. To do so we can import data from an excel file. You can download the SolarPanels.xlsx [here](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/data/SolarPanels.xlsx). In Build head on over to the Data tab and click on import a file. Select the SolarPanels.xlsx you just downloaded:
+
+![Import Data](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ImportData.jpg)
 
 7. As you can see it imported data with a default name: "Table1". Lets edit the name by clicking on the Data Editor button:
-![Assignment5 DataEditor](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/DataEditor.jpg)
+
+![Data Editor](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/DataEditor.jpg)
 
 In the Data Editor you can browse and edit your data's properties. You can also create and graphically view relations but that's not the focus of this tutorial. For now we are just interested in changing our data name from Table1 to SolarPanels:
-![Assignment5 ChangeName](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ChangeDataName.png)
+
+![Change Name](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ChangeDataName.png)
 
 8. Now head back using the button in the left upper corner. Now we can select our Table control and in its properties we can select our freshly imported SolarPanels data:
-![Assignment5 ChangeTableData](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ChangeTableData.jpg)
+
+![ChangeTableData](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ChangeTableData.jpg)
 
 # Continue to assignment #6
 [Assignment 6](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/3_)
