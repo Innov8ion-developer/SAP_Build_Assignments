@@ -34,7 +34,7 @@ Then we can select our Image Control and navigate to the Library button in its p
 Here we can select our freshly uploaded Boteyken 323.jpg:
 ![Assignment4 SelectImg](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/SelectImage.jpg)
 
-Great there is an image of our roof. Now lets edit the image size to about 294px (leave the lock icon locked to keep the image scaling correct)
+Great there is an image of our roof. Now lets edit the image size to about 290px (leave the lock icon locked to keep the image scaling correct)
 ![Assignment4 EditImgSize](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/EditImgSize.jpg)
 
 Also while we are in the Image control properties lets also edit its Margins property to give it a small margin:
