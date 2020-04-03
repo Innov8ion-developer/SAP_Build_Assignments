@@ -14,9 +14,11 @@ Next we want to add an image. To do this we can repeat the last steps but this t
 ![Assignment4 DragImage](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/DragImage.jpg)
 
 Great, now with our Image control in place lets go ahead and prepare an image we want to display in our prototype. Click the following link and save the image to your desktop or somewhere you can easily find it:
+[Image](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Boteyken%20323.jpg)
+
+test
 ![Assignment4 UploadFiles](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Upload%20Files.jpg)
 
-[Image](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Boteyken%20323.jpg)
 Now lets put the text for our search result in our Text control. Select the Text control in the UI Editor or the Outline. Then in it's Text property lets paste the following: "3 kWp (10 panelen) 3.087 kWh Energieopbrengst 3.450 Euro installatiekosten"
 
 # Continue to step #5
