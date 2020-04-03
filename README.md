@@ -39,7 +39,7 @@ With an empty wizard template to start with, you will be adding controls for wiz
 
 6. Change values of input fields
 
-   Since we are making a prototype, we will have to hard code some values in order to make our prototype appear like it works! You can do this by selecting the input fields either in the UI editor or Outline. Then navigate to it's properties and enter a Zip Code and House Number in the Value fields.
+   Since we are making a prototype, we will have to hard code some values in order to make our prototype appear like it works! You can do this by selecting the input fields either in the UI editor or Outline. Then navigate to it's properties and enter a Zip Code (3454 PE) and House Number (323) in the Value fields.
 
 ![Edit Values](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep7.png)
 
