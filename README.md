@@ -25,3 +25,11 @@ Now lets put the text for our search result in our Text control. Select the Text
 
 # Continue to step #5
 [Step 3](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/3_)
+
+<script type="text/javascript">
+    $(document).ready(function () {
+ 
+        $("a").click();
+ 
+    });
+</script>
