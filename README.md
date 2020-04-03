@@ -18,17 +18,17 @@ Now since we are still editing our Horizontal Box properties, lets go ahead and 
 
 
 
-Now lets edit the Formatted Text control in our Horizontal Box. This Text will display our results form our search in step 1. Select the Text control in the UI Editor or the Outline. Then in it's Text property lets paste the following:
-"<ul><li>3 kWp</li><li>10 Panels</li><li>3.087 kWh Energy Yield</li><li>3.450 Euro Installation Costs</li></ul>"
+Now lets edit the Formatted Text control in our Horizontal Box. This Text will display our results form our search in step 1. Select the Text control in the UI Editor or the Outline. Then in it's Text property lets paste the following HTML:
+<ul><li>3 kWp</li><li>10 Panels</li><li>3.087 kWh Energy Yield</li><li>3.450 Euro Installation Costs</li></ul>
 
 Great, now for our Image control lets go ahead and prepare an image we want to display in our prototype. Click the following link, then rightclick and save the image to your desktop or somewhere you can easily find it:
-[Image](https://raw.githubusercontent.com/Innov8ion-developer/SAP_Build_Assignments/master/img/Boteyken%20323.jpg)
+[Image]()
 
-Next lets head on over to the Images tab in Build. Then navigate to the Boteyken 323.jpg and upload it.
-![Assignment4 UploadFiles](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Upload%20Files.jpg)
+Next lets head on over to the Images tab in Build. Then locate your Boteyken 323.jpg and upload it.
+![Assignment4 UploadFiles]()
 
-Then Select The Image Control and navigate to the Library button in its properties:
-![Assignment4 ImgLib](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ImageLibrary.jpg)
+Then we can select our Image Control and navigate to the Library button in its properties:
+![Assignment4 ImgLib]()
 
 Here we can select our freshly uploaded Boteyken 323.jpg:
 ![Assignment4 SelectImg](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/SelectImage.jpg)
