@@ -90,5 +90,5 @@ Since we are making a prototype and unfortunately there is no way to use real AP
 
 <<<<<<<<< CONTENT FOR OTHER ASSIGNMENT >>>>>>>>>
 
-# Continue to step #2
-[Step 2](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/3_Edit_the_template_step2/README.md)
+# Continue to assignment #3
+[Assignment 3](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/3_Edit_the_template_step2/README.md)
