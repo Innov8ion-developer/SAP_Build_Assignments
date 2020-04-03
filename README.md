@@ -1,7 +1,9 @@
-# Assignment #5 - Edit wizard step 3
+# Assignment #5 - Edit wizard step 3: selecting solar panels
+
 In wizard step 3, the user should be able to select the type of solar panel he wants to order. He should be able to do this by selecting the solar panel of his choice from a table. The data to populate this table is supplied as an excel file in this assignment. The Build tool allows you to upload this excel file and use it as a data source for a table.
 
-#### Edit wizard step 3
+#### Edit wizard step 3: selecting solar panels
+
 1. Search for the Table control in the controls section. Drag & drop it onto wizard step 3.
 
 ![Add Table control](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addSolarPanelsTable1.png)
