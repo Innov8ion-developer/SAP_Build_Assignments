@@ -22,8 +22,8 @@ Now lets edit the Formatted Text control in our Horizontal Box. This Text will d
 Lets also edit its Margins property to give it a small margin while we are here.
 ![Assignment4 FormattedText](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Paste%20Formatted%20Text.jpg)
 
-Great, now for our Image control lets go ahead and prepare an image we want to display in our prototype. Click the following link, then rightclick and save the image to your desktop or somewhere you can easily find it:
-[Image](https://raw.githubusercontent.com/Innov8ion-developer/SAP_Build_Assignments/master/img/Boteyken%20323.jpg)
+Great, now for our Image control lets go ahead and prepare an image we want to display in our prototype. Click the following link: [Image](https://raw.githubusercontent.com/Innov8ion-developer/SAP_Build_Assignments/master/img/Boteyken%20323.jpg), then rightclick and save the image to your desktop or somewhere you can easily find it:
+
 
 Next lets head on over to the Images tab in Build. Then locate your Boteyken 323.jpg and upload it.
 ![Assignment4 UploadFiles](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ImagesTab.jpg)
@@ -34,7 +34,10 @@ Then we can select our Image Control and navigate to the Library button in its p
 Here we can select our freshly uploaded Boteyken 323.jpg:
 ![Assignment4 SelectImg](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/SelectImage.jpg)
 
-While we are in the Image control properties lets also edit its Margins property to give it a small margin:
+Great there is an image of our roof. Now lets edit the image size to about 294px (leave the lock icon locked to keep the image scaling correct)
+![Assignment4 EditImgSize](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/EditImgSize.jpg)
+
+Also while we are in the Image control properties lets also edit its Margins property to give it a small margin:
 ![Assignment4 EditImgMargins](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Edit%20Image%20Margins.png)
 
 
