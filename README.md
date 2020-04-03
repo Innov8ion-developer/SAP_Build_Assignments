@@ -13,13 +13,17 @@ Great, now we have that in place we can delete it's first three children because
 Next we want to add an image. To do this we can repeat the last steps but this time we will drag an Image control into our new Horizontal Box:
 ![Assignment4 DragImage](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/DragImage.jpg)
 
-Great, now with our Image control in place lets go ahead and prepare an image we want to display in our prototype. Click the following link and save the image to your desktop or somewhere you can easily find it:
-[Image](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Boteyken%20323.jpg)
+Great, now with our Image control in place lets go ahead and prepare an image we want to display in our prototype. Click the following link, then rightclick and save the image to your desktop or somewhere you can easily find it:
+[Image](https://raw.githubusercontent.com/Innov8ion-developer/SAP_Build_Assignments/master/img/Boteyken%20323.jpg)
 
-<a download="Boteyken 323.jpg" href="https://github.com/Innov8ion-developer/SAP_Build_Assignments/tree/master/img" title="Image" alt="Boteyken 323">Image</a>
-
-test
+Next lets head on over to the Images tab in Build. Then navigate to the Boteyken 323.jpg and upload it.
 ![Assignment4 UploadFiles](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Upload%20Files.jpg)
+
+Then Select The Image Control and navigate to the Library button in its properties:
+![Assignment4 ImgLib](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ImageLibrary.jpg)
+
+Here we can select our freshly uploaded Boteyken 323.jpg:
+![Assignment4 SelectImg](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/SelectImage.jpg)
 
 Now lets put the text for our search result in our Text control. Select the Text control in the UI Editor or the Outline. Then in it's Text property lets paste the following: "3 kWp (10 panelen) 3.087 kWh Energieopbrengst 3.450 Euro installatiekosten"
 
