@@ -9,7 +9,7 @@ To start editing the prototype, go to the UI Editor by clicking the Wizard Page.
 
 1. Delete controls from wizard step
 
-   In the outline (bottom left corner), select “Wizard Step Product type”. This is the first step on the wizard page. Delete all its children (Message Strip, Text and Horizontal Box). You can do this in two ways:
+   Find the wizard step "Wizard Step Product type". This is the first step on the wizard page. Delete all its children (Message Strip, Text and Horizontal Box). You can do this in two ways:
    
    + Select the wizard step by clicking on it on the canvas until it is selected (highlighted in green). Go to the properties section and delete all the children from there.
    
@@ -32,6 +32,12 @@ To start editing the prototype, go to the UI Editor by clicking the Wizard Page.
    + Step 1: Enter Your Information
    + Step 2: View Your Results
    + Step 3: Select Your Solar Panels
+   
+   ![Editing titles](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype14.png)
+   
+4. Result
+
+   Your build prototype should have three empty wizard steps with edited titles. It should look similar to the result you see below:
    
    ![Titles edited](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype13.png)
 
