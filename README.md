@@ -5,7 +5,7 @@ With an empty wizard template to start with, you will be adding controls for wiz
 
 1. Add new control
 
-   Now that you have an empty wizard step, we can add some new content. In the controls section (upper left corner), search for the Form control and either drag it in the UI editor.
+   Now that you have an empty wizard step, we can add some new content. In the controls section (upper left corner), search for the Form control and drag it in the UI editor.
 
 ![Add new content](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep1.png)
 
