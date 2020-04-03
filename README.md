@@ -4,11 +4,11 @@ In this step we want to display the address search result from step 1. We will d
 
 #### Edit step 2: displaying search results
 
-1. In our prototype we would like to display that in a horizontal layout so lets navigate to the controls section and search for Horizontal Box. You can read more about what the control does by hovering over it in the control menu.
+1. In the prototype we would like to display the search results in a horizontal layout. Go to the controls section and search for Horizontal Box. You can read more about what the control does by hovering over it in the control menu.
 
 ![Assignment4](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Hbox%20Search.jpg)
 
-2. Then you can drag the Horizontal Box into the UI editor or the Outline.
+2. Drag & drop the Horizontal Box onto the UI editor or the Outline.
 
 ![Assignment4 Hbox](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/DragHBox.jpg)
 
@@ -16,7 +16,7 @@ In this step we want to display the address search result from step 1. We will d
 
 ![Assignment4 DeleteHboxChildren](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/DeleteHboxChildren.jpg)
 
-4. Next lets add some new controls. In the Horizontal Box properties bottom right of the screen select a Formatted Text control and press the add button. Repeat these steps for an Image control.
+4. Next lets add some new controls. In the Horizontal Box properties section expand the Content line, select a Formatted Text control and press the ADD button. Repeat the same steps to also add an Image control.
 
 ![Assignment4 HBoxChildren](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/AddChildrenToHbox.png)
 
