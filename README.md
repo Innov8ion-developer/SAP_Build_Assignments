@@ -16,7 +16,7 @@ Next we want to add an image. To do this we can repeat the last steps but this t
 Great, now with our Image control in place lets go ahead and prepare an image we want to display in our prototype. Click the following link and save the image to your desktop or somewhere you can easily find it:
 [Image](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Boteyken%20323.jpg)
 
-<a download="Boteyken 323.jpg" href="https://raw.githubusercontent.com/Innov8ion-developer/SAP_Build_Assignments/master/img/Boteyken%20323.jpg" title="Image" alt="Boteyken 323">Image</a>
+<a download="Boteyken 323.jpg" href="https://github.com/Innov8ion-developer/SAP_Build_Assignments/tree/master/img" title="Image" alt="Boteyken 323">Image</a>
 
 test
 ![Assignment4 UploadFiles](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Upload%20Files.jpg)
