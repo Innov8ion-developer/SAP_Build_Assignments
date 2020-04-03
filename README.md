@@ -16,11 +16,11 @@ In wizard step 3, the user should be able to select the type of solar panel he w
 
 4. Select a cell of the column you just added. In the properties section, expand the Content line. In the dropdown menu, search for Text and press the ADD button.
 
-![Add cell content](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addSolarPanelsTable4.png)
+![Add cell content](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addSolarPanelsTable5.png)
 
 5. Change the column headers to "Brand", "Type", "Capacity" and "Price" by selecting them on the canvas and editing the fields.
 
-![Change column header](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addSolarPanelsTable5.png)
+![Change column header](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addSolarPanelsTable4.png)
 
 # Continue to assignment #6
 [Assignment 6](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/3_)
