@@ -11,11 +11,11 @@ To start editing the prototype, go to the UI Editor by clicking the Wizard Page.
 
    Find the wizard step "Wizard Step Product type". This is the first step on the wizard page. Delete all its children (Message Strip, Text and Horizontal Box). You can do this in two ways:
    
-   + Select the wizard step by clicking on it on the canvas until it is selected (highlighted in green). Go to the properties section and delete all the children from there.
+   + Option 1: Select the wizard step by clicking on it on the canvas until it is selected (highlighted in green). Go to the properties section and delete all the children from there.
    
 ![Delete option 1](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype10.png)
    
-   + Select the control you want to delete in the outline section. Right click it and select the delete option. Do this for all the children.
+   + Option 2: Select the control you want to delete in the outline section. Right click it and select the delete option. Do this for all the children.
    
 ![Delete option 2](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype11.png)
 
