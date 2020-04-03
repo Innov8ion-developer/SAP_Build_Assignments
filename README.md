@@ -7,11 +7,38 @@ To start editing the prototype, go to the UI Editor by clicking the Wizard Page.
 
 ![Edit wizard page](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype1.png)
 
-1. Delete controls
+1. Delete controls from wizard step
 
-   In the outline (bottom left corner), select “Wizard Step Product type”. This is the first step on the wizard page. Delete all its children (Message Strip, Text and Horizontal Box). You can do this either on the properties section (right side of the screen) or just remove them directly from the outline by selecting the controls, right clicking and pressing delete.
+   In the outline (bottom left corner), select “Wizard Step Product type”. This is the first step on the wizard page. Delete all its children (Message Strip, Text and Horizontal Box). You can do this in two ways:
+   
+   + Select the wizard step by clicking on it on the canvas until it is selected (highlighted in green). Go to the properties section and delete all the children from there.
+   
+   ![Delete option 1](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype10.png)
+   
+   + Select the control you want to delete in the outline section. Right click it and select the delete option. Do this for all the children.
+   
+   ![Delete option 2](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype11.png)
 
-![Delete children of wizard step](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype2.png)
+2. Repeat for all wizard steps
+
+   Delete the children of all wizard steps in the same way. You will end up with an empty wizard control.
+   
+   ![Empty wizard steps](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype12.png)
+
+3. Edit titles of the wizard steps
+
+   Select a wizard step by clicking on it on the canvas until it is highlighted in green. Change the title of the wizard step by editing the "Title" field in the properties section.
+   
+   1. Enter your information
+   1. Title 2
+   1. Title 3
+   
+   ![Titles edited](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype13.png)
+
+
+
+<<<<<<<<< CONTENT FOR OTHER ASSIGNMENT >>>>>>>>>
+
 
 2. Add new control
 
@@ -54,6 +81,8 @@ To start editing the prototype, go to the UI Editor by clicking the Wizard Page.
 Since we are making a prototype and unfortunately there is no way to use real API's in Build at the moment, we will have to hard code some values in order to make our prototype appear like it works! You can do this by selecting the input fields either in the UI editor or Outline. Then navigate to it's properties and enter an Zip Code and House Number in the Value fields.
 
 ![Edit Values](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Edit%20Input%20Values.png)
+
+<<<<<<<<< CONTENT FOR OTHER ASSIGNMENT >>>>>>>>>
 
 # Continue to step #2
 [Step 2](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/3_Edit_the_template_step2/README.md)
