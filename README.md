@@ -27,11 +27,11 @@ To start editing the prototype, go to the UI Editor by clicking the Wizard Page.
 
 3. Edit titles of the wizard steps
 
-   Select a wizard step by clicking on it on the canvas until it is highlighted in green. Change the title of the wizard step by editing the "Title" field in the properties section.
+   Select a wizard step by clicking on it on the canvas until it is highlighted in green. Change the title of the wizard step by editing the "Title" field in the properties section. Change the title of all three steps.
    
-   1. Enter your information
-   1. Title 2
-   1. Title 3
+   + Step 1: Enter Your Information
+   + Step 2: View Your Results
+   + Step 3: Select Your Solar Panels
    
    ![Titles edited](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype13.png)
 
