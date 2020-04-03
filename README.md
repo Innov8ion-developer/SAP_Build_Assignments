@@ -42,4 +42,4 @@ To start editing the prototype, go to the UI Editor by clicking the Wizard Page.
 ![Titles edited](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/editThePrototype13.png)
 
 # Continue to assignment #3
-[Assignment 3](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/4_Edit_Step_2/README.md)
+[Assignment 3](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/3_Edit_the_template_step2/README.md)
