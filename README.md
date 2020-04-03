@@ -27,9 +27,9 @@ Now go to the "SAMPLES" tab and press the "EDIT SAMPLES" button.
 Press the "+" button three times to add three rows of data. Enter the following row data:
 
 **ID Brand           Type        Capacity   Color   Price**
- 1    BYD             310P6C-36   310 WP     Black   EUR 175,00
- 2    Canadian Solar  CS6P-300P   300 WP     Silver  EUR 170,00
- 3    Sunerg          X310 M60 B+ 310 WP     Black   EUR 170,00
++ 1    BYD             310P6C-36   310 WP     Black   EUR 175,00
++ 2    Canadian Solar  CS6P-300P   300 WP     Silver  EUR 170,00
++ 3    Sunerg          X310 M60 B+ 310 WP     Black   EUR 170,00
 
 ![Sample data](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/manualData4.png)
 
