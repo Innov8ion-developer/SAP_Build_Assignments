@@ -50,4 +50,4 @@ With an empty wizard template to start with, we will be adding controls for the 
 ![Result](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep8.png)
 
 # Continue to assignment #4
-[Assignment 4](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/3_Edit_the_template_step2/README.md)
+[Assignment 4](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/4_Edit_Step_2/README.md)
