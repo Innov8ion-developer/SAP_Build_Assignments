@@ -41,5 +41,5 @@ In the Data Editor you can browse and edit your data's properties. You can also 
 ![ChangeTableData](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ChangeTableData.jpg)
 
 # Continue to assignment #6
-[Assignment 6](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/3_)
+[Assignment 6](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/6_Edit_Review_Page/README.md)
 
