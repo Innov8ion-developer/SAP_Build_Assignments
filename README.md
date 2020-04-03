@@ -7,13 +7,21 @@ In this step we want to display the search result from step 1. We will display a
 Then you can drag the Horizontal Box into the UI editor or the Outline:
 ![Step 2 Delete In Properties](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Drag%20Horizontal%20Box.jpg)
 
-Great, now we have that in place we can delete it's first three children because we won't be needing them. We can leave one Text control though because we need one. You can select multiple controls, but you can only delete them one by one:
-![Step 2 Edit Wizard Step Title](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Delete%20Hbox%20Children.jpg)
+Great, now we have that in place we can delete it's children because we won't be needing them. You can select multiple controls, but you can only delete them one by one.:
+![Step 2 Edit Wizard Step Title]()
 
-Next we want to add an image. To do this we can repeat the last steps but this time we will drag an Image control into our new Horizontal Box:
-![Assignment4 DragImage](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/DragImage.jpg)
+Next lets add some new controls. In the Horizontal Box properties bottom right of the screen select a Formatted Text control and press the add button. Repeat these steps for an Image control:
+![Assignment4 HBoxChildren]()
 
-Great, now with our Image control in place lets go ahead and prepare an image we want to display in our prototype. Click the following link, then rightclick and save the image to your desktop or somewhere you can easily find it:
+Now since we are still editing our Horizontal Box properties, lets go ahead and change its Item Alignment property to Center, its Justify Content property to SpaceAround and its Margins to Medium. This will much like the property names suggest align the children/items to the Horizontal Box's center, space them around evenly and add a medium sized margin.
+![Assignment4 HBox Properties]()
+
+
+
+Now lets edit the Formatted Text control in our Horizontal Box. This Text will display our results form our search in step 1. Select the Text control in the UI Editor or the Outline. Then in it's Text property lets paste the following:
+"<ul><li>3 kWp</li><li>10 Panels</li><li>3.087 kWh Energy Yield</li><li>3.450 Euro Installation Costs</li></ul>"
+
+Great, now for our Image control lets go ahead and prepare an image we want to display in our prototype. Click the following link, then rightclick and save the image to your desktop or somewhere you can easily find it:
 [Image](https://raw.githubusercontent.com/Innov8ion-developer/SAP_Build_Assignments/master/img/Boteyken%20323.jpg)
 
 Next lets head on over to the Images tab in Build. Then navigate to the Boteyken 323.jpg and upload it.
@@ -25,7 +33,7 @@ Then Select The Image Control and navigate to the Library button in its properti
 Here we can select our freshly uploaded Boteyken 323.jpg:
 ![Assignment4 SelectImg](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/SelectImage.jpg)
 
-Now lets put the text for our search result in our Text control. Select the Text control in the UI Editor or the Outline. Then in it's Text property lets paste the following: "3 kWp (10 panelen) 3.087 kWh Energieopbrengst 3.450 Euro installatiekosten"
+
 
 # Continue to step #5
 [Step 3](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/3_)
