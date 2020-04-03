@@ -1,14 +1,14 @@
 # Assignment #4 - Edit the prototype step 2
 
 In this step we want to display the search result from step 1. We will display an image of the address we searched for, as well as some information about how suitable our address is for solar panels. In our prototype we would like to display that horizontally so lets navigate to the controls menu and search for: "horizontal box". You can read more about what the control does by hovering over it in the control menu.
-![Assignment4](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Horizontalbox.jpg)
+![Assignment4](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Hbox%20Search.jpg)
 
 
 Then you can drag the Horizontal Box into the UI editor or the Outline:
-![Assignment4 Hbox](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Drag%20Horizontal%20Box.jpg)
+![Assignment4 Hbox](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/DragHBox.jpg)
 
 Great, now we have that in place we can delete it's children because we won't be needing them. You can select multiple controls, but you can only delete them one by one.:
-![Step 2 Edit Wizard Step Title](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Delete%20Hbox%20Children.jpg)
+![Assignment4 DeleteHboxChildren](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/DeleteHboxChildren.jpg)
 
 Next lets add some new controls. In the Horizontal Box properties bottom right of the screen select a Formatted Text control and press the add button. Repeat these steps for an Image control:
 ![Assignment4 HBoxChildren](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/AddChildrenToHbox.png)
