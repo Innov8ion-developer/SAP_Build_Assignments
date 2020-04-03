@@ -1,43 +1,26 @@
-# Assignment #4 - Edit the prototype step 2
+# Assignment #5 - Edit wizard step 3
 
-In this step we want to display the search result from step 1. We will display an image of the address we searched for, as well as some information about how suitable our address is for solar panels. In our prototype we would like to display that horizontally so lets navigate to the controls menu and search for: "horizontal box". You can read more about what the control does by hovering over it in the control menu.
-![Assignment4](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Horizontalbox.jpg)
+#### Edit wizard step 3
+1. Search for the Table control in the controls section. Drag & drop it onto wizard step 3.
 
+![Add Table control]()
 
-Then you can drag the Horizontal Box into the UI editor or the Outline:
-![Assignment4 Hbox](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Drag%20Horizontal%20Box.jpg)
+2. Select the table (highlighted in green) on the canvas by clicking on it. Change the Mode property of the table to "Single Select Left" in the properties section. This will change the behaviour of selecting an item in the table.
 
-Great, now we have that in place we can delete it's children because we won't be needing them. You can select multiple controls, but you can only delete them one by one.:
-![Step 2 Edit Wizard Step Title](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Delete%20Hbox%20Children.jpg)
+![Change Table mode]()
 
-Next lets add some new controls. In the Horizontal Box properties bottom right of the screen select a Formatted Text control and press the add button. Repeat these steps for an Image control:
-![Assignment4 HBoxChildren](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/AddChildrenToHbox.png)
+3. Select the table (highlighted in green) on the canvas by clicking on it. Add a column to the table by scrolling down in the properties section. At the Children part, expand the Columns entry and press the ADD button.
 
-Now since we are still editing our Horizontal Box properties, lets go ahead and change its Item Alignment property to Center, its Justify Content property to SpaceAround and its Margins to Medium. This will much like the property names suggest align the children/items to the Horizontal Box's center, space them around evenly and add a medium sized margin.
-![Assignment4 HBox Properties](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ChangeHboxProperties.png)
+![Add a column]()
 
-Now lets edit the Formatted Text control in our Horizontal Box. This Text will display our results form our search in step 1. Select the Text control in the UI Editor or the Outline. Then in it's Text property lets paste the following HTML:
-&lt;ul&gt;&lt;li&gt;3 kWp&lt;/li&gt;&lt;li&gt;10 Panels&lt;/li&gt;&lt;li&gt;3.087 kWh Energy Yield&lt;/li&gt;&lt;li&gt;3.450 Euro Installation Costs&lt;/li&gt;&lt;/ul&gt;
+4. Select a cell of the column you just added. In the properties section, expand the Content line. In the dropdown menu, search for Text and press the ADD button.
 
-Lets also edit its Margins property to give it a small margin while we are here.
-![Assignment4 FormattedText](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Paste%20Formatted%20Text.jpg)
+![Add cell content]()
 
-Great, now for our Image control lets go ahead and prepare an image we want to display in our prototype. Click the following link, then rightclick and save the image to your desktop or somewhere you can easily find it:
-[Image](https://raw.githubusercontent.com/Innov8ion-developer/SAP_Build_Assignments/master/img/Boteyken%20323.jpg)
+5. Change the column headers to "Brand", "Type", "Capacity" and "Price" by selecting them on the canvas and editing the fields.
 
-Next lets head on over to the Images tab in Build. Then locate your Boteyken 323.jpg and upload it.
-![Assignment4 UploadFiles](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ImagesTab.jpg)
+![Change column header]()
 
-Then we can select our Image Control and navigate to the Library button in its properties:
-![Assignment4 ImgLib](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/LibraryImage.jpg)
-
-Here we can select our freshly uploaded Boteyken 323.jpg:
-![Assignment4 SelectImg](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/SelectImage.jpg)
-
-While we are in the Image control properties lets also edit its Margins property to give it a small margin:
-![Assignment4 EditImgMargins](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Edit%20Image%20Margins.png)
-
-
-# Continue to step #5
-[Step 3](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/3_)
+# Continue to assignment #6
+[Assignment 6](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/3_)
 
