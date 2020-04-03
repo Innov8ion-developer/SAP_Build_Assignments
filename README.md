@@ -1,5 +1,8 @@
-# Assignment #4 - Edit the prototype step 2
+# Assignment #4 - Edit step 2: displaying search results
+
 In this step we want to display the address search result from step 1. We will display a Google Maps image of the address we searched for, as well as some information about how suitable the roof is for solar panels. 
+
+#### Edit step 2: displaying search results
 
 1. In our prototype we would like to display that in a horizontal layout so lets navigate to the controls section and search for Horizontal Box. You can read more about what the control does by hovering over it in the control menu.
 
