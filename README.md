@@ -1,5 +1,5 @@
 # Assignment #3 - Add controls to wizard step 1
-With an empty wizard template to start with, you will be adding controls for wizard step 1 in this assignment.
+With an empty wizard template to start with, we will be adding controls for the first wizard step in this assignment. The user will be able to enter his address details in these controls.
 
 #### Add controls to wizard step 1
 
