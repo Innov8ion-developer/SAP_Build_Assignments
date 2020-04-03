@@ -1,5 +1,5 @@
 # Assignment #2 - Edit the prototype
-The wizard template that you have selected in assignment #1 is used to guide a user through a serie of steps. In this assignment you will edit the steps of the template. First you will delete some of the template content that is not needed and after that you will add some controls that you do need.
+The wizard template that you have selected in assignment #1 is used to guide a user through a serie of steps. The wizard template is prefilled with controls. In this assignment you delete the prefilled content from the wizard template and change the titles of the wizard steps.
 
 #### Edit the prototype
 
