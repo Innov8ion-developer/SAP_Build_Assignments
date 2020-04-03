@@ -1,15 +1,36 @@
-# Innov8ion SAP Build Assignments
-All assignments for the Innov8ion SAP Build meeting are covered in this Github repository. Every branch is one assignment. You can navigate to the next assignment by clicking the link at the end of each assignment or by choosing the corresponding branch from the branch dropdown at the top of each page.
+# Manual data
+If your excel upload failed, you will find the steps to create a set of data manually here.
 
-Please read through this page for some information regarding prerequisites and general information. Then continue to the first assignment to get started.
+#### Create new object
+Go to the DATA tab of the controls section. From here, press the "Create" option at the "Create a new object" line.
 
-#### General information
-In these assignments we will be creating a prototype for a Fiori app. The Fiori app will be used to order solar panels for the user based on the user's address. The finished prototype will have a wizard control that guides a user through three steps in which the user will be able to enter his address details, receive an advice on number of solar panels possible and select the desired solar panels. A review page will show a summary of the entered data, after which the user can confirm his order.
+[Create new object]()
 
-#### Prerequisites
-The only two things you need to complete the assignments is this github repository and a build.me account. Go to https://www.build.me and press the "Sign up" button. Enter your email address and complete the registration. You will receive an email to activate your account once you have registered. Activate your account and login to the tool.
+#### Object properties
+Give the object the name "SolarPanels". Now add properties to the object by clicking the "Add properties" button. Add the following properties:
 
-After you login to your build.me account, watch the intro video to get an understanding of the capabilities of the build tool.
++ Brand
++ Type
++ Capacity
++ Color
++ Price
 
-# Continue to the first assignment
-[Assignment 1](https://github.com/Innov8ion-developer/SAP_Build_Assignments/tree/1_Your_first_prototype)
+[Object properties]()
+
+Now go to the "SAMPLES" tab and press the "EDIT SAMPLES" button.
+
+#### Sample data
+Press the "+" button three times to add three rows of data. Enter the following row data:
+
+**ID Brand           Type        Capacity   Color   Price**
+1    BYD             310P6C-36   310 WP     Black   EUR 175,00
+2    Canadian Solar  CS6P-300P   300 WP     Silver  EUR 170,00
+3    Sunerg          X310 M60 B+ 310 WP     Black   EUR 170,00
+
+[Sample data]()
+
+Now press the "OK" button. Now press the "BACK" button. All finished.
+
+#### Go back to the assignments
+Now you can head back to where you left the assignments.
+
