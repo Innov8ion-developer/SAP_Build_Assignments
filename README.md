@@ -27,13 +27,13 @@ In this step we want to display the address search result from step 1. We will d
 6. Now lets edit the Formatted Text control in the Horizontal Box. This Text will display the results from the address details in step 1. Select the Text control in the UI Editor or the Outline. Then in it's Text property lets paste the following HTML:
 &lt;ul&gt;&lt;li&gt;3 kWp&lt;/li&gt;&lt;li&gt;10 Panels&lt;/li&gt;&lt;li&gt;3.087 kWh Energy Yield&lt;/li&gt;&lt;li&gt;3.450 Euro Installation Costs&lt;/li&gt;&lt;/ul&gt;
 
-Lets also edit its Margins property to give it a small margin while we are here.
+   Lets also edit its Margins property to give it a small margin while we are here.
 
 ![Assignment4 FormattedText](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Paste%20Formatted%20Text.jpg)
 
 7. For the Image control lets go ahead and prepare an image we want to display in our prototype. Click the following link: [Image](https://raw.githubusercontent.com/Innov8ion-developer/SAP_Build_Assignments/master/img/Boteyken%20323.jpg), then right click and save the image to your desktop or somewhere you can easily find it.
 
-Next lets head on over to the Images tab in Build. Then locate the Boteyken 323.jpg file and upload it.
+   Next lets head on over to the Images tab in Build. Then locate the Boteyken 323.jpg file and upload it.
 
 ![Assignment4 UploadFiles](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ImagesTab.jpg)
 
@@ -41,15 +41,15 @@ Next lets head on over to the Images tab in Build. Then locate the Boteyken 323.
 
 ![Assignment4 ImgLib](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/LibraryImage.jpg)
 
-Here we can select our freshly uploaded Boteyken 323.jpg
+   Here we can select our freshly uploaded Boteyken 323.jpg
 
 ![Assignment4 SelectImg](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/SelectImage.jpg)
 
-Great there is an image of our roof. Now edit the image size to about 290px (leave the lock icon locked to keep the image scaling correct).
+9. Great there is an image of our roof. Now edit the image size to about 290px (leave the lock icon locked to keep the image scaling correct).
 
 ![Assignment4 EditImgSize](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/EditImgSize.jpg)
 
-Also while we are in the Image control properties, also edit its Margins property to give it a small margin.
+10. Also while we are in the Image control properties, also edit its Margins property to give it a small margin.
 
 ![Assignment4 EditImgMargins](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Edit%20Image%20Margins.png)
 
