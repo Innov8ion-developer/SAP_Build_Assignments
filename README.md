@@ -5,7 +5,7 @@ With an empty wizard template to start with, we will be adding controls for the 
 
 1. Add new control
 
-   In the controls section, search for the Form control and drag it in the UI editor.
+   In the controls section, search for the "Form" control and drag it in the UI editor.
 
 ![Add new content](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep1.png)
 
