@@ -2,15 +2,15 @@
 In the first assignment you will create a new Build prototype based on an existing template. This will kickstart your prototype development.
 
 #### Create new project
-From the "Start from scratch" section, choose the "Create new project" button.
+1. From the "Start from scratch" section, choose the "Create new project" button.
 
 ![Create new project](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/yourFirstPrototype1.png)
 
-Give your project a meaningful name and description. Next, choose the "Start with template" option.
+2. Give your project a meaningful name and description. Next, choose the "Start with template" option.
 
 ![Start with template](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/yourFirstPrototype2.png)
 
-Now select the "Wizard" template to start your prototype with an existing template.
+3. Now select the "Wizard" template to start your prototype with an existing template.
 
 ![Wizard template](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/yourFirstPrototype3.png)
 
