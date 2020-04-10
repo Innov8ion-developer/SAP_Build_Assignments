@@ -5,13 +5,13 @@ With an empty wizard template to start with, we will be adding controls for the 
 
 1. Add new control
 
-   In the controls section, search for the "Form" control and drag it in the UI editor.
+   In the controls section, search for the Form control and drag it in the UI editor.
 
 ![Add new content](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep1.png)
 
 2. Delete one Title and two Form Rows from Form control
 
-   The "Form" control has its own title. We don’t need two titles so lets remove the "Title Form Title" from the Form control.
+   The Form control has its own title. We don’t need two titles so lets remove the "Title Form Title" from the Form control.
 
 ![Delete form title](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep2.png)
 
@@ -33,13 +33,13 @@ With an empty wizard template to start with, we will be adding controls for the 
 
 5. Change width of input fields
 
-   Great, we have our two input fields in place now. They are just a bit too wide. Lets go to their properties and adjust the first input field to 20%, and the second input field to 10%.
+   Great, we have our two input fields in place now. They are just a bit too wide. Lets go to their properties and adjust the first Input field to 20%, and the second Input field to 10%.
 
 ![Change input field width](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep6.png)
 
 6. Change values of input fields
 
-   Since we are making a prototype, we will have to hard code some values in order to make our prototype appear like it works! You can do this by selecting the input fields either in the UI editor or Outline. Then navigate to it's properties and enter a Zip Code (3454 PE) and House Number (323) in the Value fields.
+   Since we are making a prototype, we are going to hard code some values in order to make our prototype appear like it works! You can do this by selecting the input fields either in the UI editor or Outline. Then navigate to it's properties and enter a Zip Code (3454 PE) and House Number (323) in the Value fields.
 
 ![Edit Values](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addControlsToFirstStep7.png)
 
