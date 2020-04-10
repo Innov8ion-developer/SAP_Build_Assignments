@@ -24,7 +24,9 @@ In wizard step 3, the user should be able to select the type of solar panel he w
 
 ![Change column header](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/addSolarPanelsTable4.png)
 
-6. Now we want to show some solar panel data in this table. To do so we can import data from an excel file. You can download the SolarPanels.xlsx [here](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/data/SolarPanels.xlsx). In Build head on over to the DATA tab in the controls section and click on **import** a file. Select the SolarPanels.xlsx you just downloaded.
+6. Now we want to show some solar panel data in this table. To do so we can import data from an excel file. You can download the SolarPanels.xlsx [here](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/data/SolarPanels.xlsx). 
+
+   Head on over to the DATA tab in the controls section and click on **import** a file. Select the SolarPanels.xlsx you just downloaded.
 
 ![Import Data](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/ImportData.jpg)
 
