@@ -36,5 +36,5 @@ All the wizard steps have been edited for our prototype. The only thing left if 
 Take a look at your prototype in Preview mode. Are you happy with the result? You might be happy because of all the effort that you put into it, but it is much better to check what other people think. The next assignment will be about creating a study for your prototype. This will allow you to share your prototype and get other peoples opinion!
 
 # Next assignment
-[Assignment 7]()
+[Assignment 7](https://github.com/Innov8ion-developer/SAP_Build_Assignments/tree/7-Create-study)
 
