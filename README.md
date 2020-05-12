@@ -120,9 +120,6 @@ Select "Okay"
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2014.1.png)
 
 The next screen is the study dashboard.
-
-![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2014a.png)
-
 Select the participants tab and invite participants by clicking “Invite new participants”.
 
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2016a.png)
