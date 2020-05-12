@@ -88,10 +88,26 @@ Click the button “New question”.
 
 Select the question which was just created.
 
-![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2011.png)
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2011a.png)
 
 1. Let’s select the review page as starting point.
 2. Enter the question “What feeling does this page impose on you?”
 3. Select “Select answers from multiple choices” and create a couple of choices for example Clear, Confusing, Cluttered and Useless.
+4. Select Done
 
-![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2012.png)
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2012a.png)
+
+## Preview Changes
+
+Let’s preview the study in the same way as we went through the default question.
+
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2013a.png)
+
+## Publish
+
+Select “Publish”
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2014a.png)
+A pop-up is shown to warn you that no changes can be made once published. Select “Publish”
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2014.1.png)
+
+
