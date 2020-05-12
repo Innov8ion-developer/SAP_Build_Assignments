@@ -12,16 +12,32 @@ As you can see in the “Feedback” workspace, one question is automatically cr
 
 #### Preview
 ![Preview](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%202a.png)
-1. Start the study by selecting “Start Study”.
+
+Start the study by selecting “Start Study”.
+
 ![Start Study](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%203a.png)
 
 In the bottom left pane, the prototype is presented and fully functional. The question which is included by default has a “Drop comment” response. This allows you to make a comment on a specific point on the screen. 
 
 Select “Drop comment”.
+
 ![Create drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%204a.png)
 
 1. Select a target by clicking anywhere on the prototype which you would like to comment on.
 2. Within the pop-up the you can provide the comment
 3. Select an emoji.
 4. Click “save”.
+
 ![Fill drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%205a.png)
+
+A bullet is left on the commented place. To see the comment, select the bullet.
+
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%206a.png)
+
+Now you have an understanding of how a study can look and feel for the people participating in the study. Close this browser tab. This will take you back to the study workspace tab that was still open.
+
+#### Edit the study
+
+Let’s alter the default question by selecting it.
+
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%207a.png)
