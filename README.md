@@ -12,5 +12,15 @@ As you can see in the “Feedback” workspace, one question is automatically cr
 
 #### Preview
 ![Preview](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%202a.png)
-1. Navigate to the Review page by clicking on it in the Outline section. In the Review page, change the titels so they are the same as in the wizard steps.
+1. Start the study by selecting “Start Study”.
+![Start Study](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%203a.png)
 
+In the bottom left pane, the prototype is presented and fully functional. The question which is included by default has a “Drop comment” response. This allows you to make a comment on a specific point on the screen. 
+1. Select “Drop comment”
+![Create drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%204a.png)
+
+1. Select a target by clicking anywhere on the prototype which you would like to comment on.
+2. Within the pop-up the you can provide the comment
+3. Select an emoji.
+4. Click “save”.
+![Fill drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%205a.png)
