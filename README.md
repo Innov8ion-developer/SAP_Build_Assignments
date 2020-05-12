@@ -10,7 +10,7 @@ We have completed our prototype. Let’s get feedback from test subjects by crea
 
 As you can see in the “Feedback” workspace, one question is automatically created. By selecting the “preview” button you can run through the study as presented to the test subject. Let’s see what this looks like. The study preview will open in a new browser tab.
 
-#### Preview
+## Preview
 ![Preview](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%202a.png)
 
 Start the study by selecting “Start Study”.
@@ -36,8 +36,46 @@ A bullet is left on the commented place. To see the comment, select the bullet.
 
 Now you have an understanding of how a study can look and feel for the people participating in the study. Close this browser tab. This will take you back to the study workspace tab that was still open.
 
-#### Edit the study
+## Edit the study
 
 Let’s alter the default question by selecting it.
 
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%207a.png)
+
+### Question layout
+
+![Question Layout](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%208a.png)
+
+#### Pages
+
+Select which page to open initially for the specific question.
+
+#### Question
+
+Provide the question here
+
+#### Response
+
+Select the kind of response you would like to obtain from the test subject.
+
+· Respond by dropping annotations the response we just discovered in which the test subject provides a comment pointing to a specific place on the screen.
+
+· Respond by entering text.
+
+A simple textual response including an emoji
+
+· Select answers from multiple choices The test subject can choose one of the provided answers or select multiple answers if ”Enable multiple answers” is enabled.
+
+· Respond by performing an action
+
+Ask the test subject to perform a specific action and to respond with “Finished” or “Couldn’t complete”
+
+#### Display format
+
+Select the screen format which you would like the test subject to use.
+
+1. Let’s change the default question to “Are all input fields clear?”
+
+2. Select the screen format “Phone(Portrait)” .
+
+3. Select “Done”
