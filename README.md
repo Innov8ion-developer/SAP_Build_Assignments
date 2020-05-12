@@ -12,6 +12,7 @@ We have completed our prototype. Let’s get feedback from test subjects by crea
 As you can see in the “Feedback” workspace, one question is automatically created. By selecting the “preview” button you can run through the study as presented to the test subject. Let’s see what this looks like. The study preview will open in a new browser tab.
 
 ## Preview
+
 ![Preview](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%202a.png)
 
 Start the study by selecting “Start Study”.
@@ -79,6 +80,7 @@ Select the screen format which you would like the test subject to use. (Computer
 
 ### Create new question
 Click the button “New question”.
+
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2010a.png)
 
 1. On the pop-up screen select the “Prototypes” tab
@@ -104,6 +106,8 @@ Let’s preview the study in the same way as we went through the default questio
 
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2013a.png)
 
+You can close the browser tab with the study preview when you're done. 
+
 ## Publish
 
 1. Select “Publish”
@@ -112,12 +116,15 @@ Let’s preview the study in the same way as we went through the default questio
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2014a.png)
 
 Select "Okay"
+
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2014.1.png)
 
 The next screen is the study dashboard.
+
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2014a.png)
 
 Select the participants tab and invite participants by clicking “Invite new participants”.
+
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2016a.png)
 
 Now enter the e-mail adresses of a few classmates and have them take part in your study.
