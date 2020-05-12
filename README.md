@@ -75,7 +75,7 @@ Ask the test subject to perform a specific action and to respond with “Finishe
 Select the screen format which you would like the test subject to use.
 
 1. Let’s change the default question to “Are all input fields clear?”
-
 2. Select the screen format “Phone(Portrait)” .
-
 3. Select “Done”
+
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%209a.png)
