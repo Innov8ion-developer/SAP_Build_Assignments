@@ -79,7 +79,19 @@ Select the screen format which you would like the test subject to use.
 ### Create new question
 Click the button “New question”.
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2010a.png)
+
 1. On the pop-up screen select the “Prototypes” tab
 2. select your prototype
 3. Click “Select”
+
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2010.1a.png)
+
+Select the question which was just created.
+
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2011.png)
+
+1. Let’s select the review page as starting point.
+2. Enter the question “What feeling does this page impose on you?”
+3. Select “Select answers from multiple choices” and create a couple of choices for example Clear, Confusing, Cluttered and Useless.
+
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2012.png)
