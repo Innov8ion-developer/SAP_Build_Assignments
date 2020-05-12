@@ -17,7 +17,7 @@ As you can see in the “Feedback” workspace, one question is automatically cr
 
 In the bottom left pane, the prototype is presented and fully functional. The question which is included by default has a “Drop comment” response. This allows you to make a comment on a specific point on the screen. 
 
-1. Select “Drop comment”.
+Select “Drop comment”.
 ![Create drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%204a.png)
 
 1. Select a target by clicking anywhere on the prototype which you would like to comment on.
