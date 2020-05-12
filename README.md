@@ -58,17 +58,13 @@ Provide the question here
 
 Select the kind of response you would like to obtain from the test subject.
 
-· Respond by dropping annotations the response we just discovered in which the test subject provides a comment pointing to a specific place on the screen.
+- Respond by dropping annotations the response we just discovered in which the test subject provides a comment pointing to a specific place on the screen.
 
-· Respond by entering text.
+- Respond by entering text. A simple textual response including an emoji
 
-A simple textual response including an emoji
+- Select answers from multiple choices. The test subject can choose one of the provided answers or select multiple answers if ”Enable multiple answers” is enabled.
 
-· Select answers from multiple choices The test subject can choose one of the provided answers or select multiple answers if ”Enable multiple answers” is enabled.
-
-· Respond by performing an action
-
-Ask the test subject to perform a specific action and to respond with “Finished” or “Couldn’t complete”
+- Respond by performing an action. Ask the test subject to perform a specific action and to respond with “Finished” or “Couldn’t complete”
 
 #### Display format
 
@@ -79,3 +75,11 @@ Select the screen format which you would like the test subject to use.
 3. Select “Done”
 
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%209a.png)
+
+### Create new question
+Click the button “New question”.
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2010a.png)
+1. On the pop-up screen select the “Prototypes” tab
+2. select your prototype
+3. Click “Select”
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2010.1a.png)
