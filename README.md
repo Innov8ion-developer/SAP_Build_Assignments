@@ -6,7 +6,7 @@ We have completed our prototype. Let’s get feedback from test subjects by crea
 1. Select “Create study” in the upper right corner,
 2. Give your study a name and
 3. Press “Create and go to feedback.”
-![Go to Review page](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/study1a.png)
+![Create study](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/study 1a.png)
 
 
 
