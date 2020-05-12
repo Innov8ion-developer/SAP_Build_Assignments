@@ -68,10 +68,10 @@ Select the kind of response you would like to obtain from the test subject.
 
 #### Display format
 
-Select the screen format which you would like the test subject to use.
+Select the screen format which you would like the test subject to use. (Computer, tablet, phone)
 
 1. Let’s change the default question to “Are all input fields clear?”
-2. Select the screen format “Phone(Portrait)” .
+2. Select the screen format “Phone(Portrait)”. Notice how the prototype pane changes when you preview your study.
 3. Select “Done”
 
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%209a.png)
@@ -105,9 +105,22 @@ Let’s preview the study in the same way as we went through the default questio
 
 ## Publish
 
-Select “Publish”
+1. Select “Publish”
+2. A pop-up is shown to warn you that no changes can be made once published. Select “Publish”
+
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2014a.png)
-A pop-up is shown to warn you that no changes can be made once published. Select “Publish”
+
+Select "Okay"
 ![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2014.1.png)
 
+The next screen is the study dashboard.
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2014a.png)
 
+Select the participants tab and invite participants by clicking “Invite new participants”.
+![View drop comment](https://github.com/Innov8ion-developer/SAP_Build_Assignments/blob/master/img/Study%2016a.png)
+
+Now enter the e-mail adresses of a few classmates and have them take part in your study.
+
+After your classmates have completed there feedback, click around the study dashboard to see the data collected.
+
+# You have succesfully finished all assignments!
